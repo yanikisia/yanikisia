@@ -1,6 +1,6 @@
 
 
-### Oi, muito prazer! Seja muito bem-vind@! 👋
+## Oi, muito prazer! Seja muito bem-vind@! 👋
 Sou yanikisia, desenvolvedora Full-Stack em construção, no momento estou cursando a bootcamp Labenu onde desenvolvi habilidades frontend e construindo meus conhecimentos backend. Acredito que conhecimento e sabedoria de verdade vem com pratica,perseverança, aprender com erros e principalmente aprender a aprender, para que o conhecimento que já temos não nos deixe parados no tempo, e que sempre possamos buscar melhorias em todos os aspectos.
 
 
