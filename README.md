@@ -1,7 +1,7 @@
 
 
 ## Oi, muito prazer! Seja muito bem-vind@! 👋
-Sou yanikisia, desenvolvedora Full-Stack em construção, no momento estou cursando a bootcamp Labenu onde desenvolvi habilidades frontend e construindo meus conhecimentos backend. Acredito que conhecimento e sabedoria de verdade vem com pratica,perseverança, aprender com erros e principalmente aprender a aprender, para que o conhecimento que já temos não nos deixe parados no tempo, e que sempre possamos buscar melhorias em todos os aspectos.
+Sou yanikisia, desenvolvedora Full-Stack desde 2021, comecei a trabalhar efetivamente na área em 2022, como minhas principais tecnologias pra uso no front são angular 11 e React, aplicando sempre da melhor forma que consigo conceitos de orientação a objeto e componetização, para melhor organização de meus códigos. Bom, durante meu trajeto ate hoje, os principais bancos que usei foi MySQL,  PostgresSQL e SQL Serve, em conjunto a eles, aprendi e usei  spring boot e node.js, e sempre tentando construir mais meus conhecimentos para o backend. Acredito que conhecimento e sabedoria de verdade vêm com pratica, perseverança, aprender com erros e principalmente aprender a aprender, para que o conhecimento que já temos não nos deixe parados no tempo, e que sempre possamos buscar melhorias em todos os aspectos. 
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=yanikisia)
